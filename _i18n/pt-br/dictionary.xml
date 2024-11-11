@@ -225,4 +225,6 @@
   <block id="ff45d71e69fb5930de79de7c94326d7b" category="sidebar">Armazenamento em cache de volume</block>
   <block id="d0e71bba7a9d538f008b05b19274bfe1" category="sidebar">Crie um volume de cache gravável para acelerar o acesso aos dados ou descarregar o tráfego de volumes acessados com muita facilidade.</block>
   <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">Toda a documentação do BlueXP </block>
+  <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">Workloads</block>
+  <block id="c2f4c01ba651c0bc1e3f5840352d4723" category="sidebar">Crie, configure e opere as principais cargas de trabalho usando o Amazon FSX for NetApp ONTAP.</block>
 </blocks>
