@@ -182,13 +182,10 @@
   <block id="5d880ed9e8bc81eec72f5edb5332637d" category="sidebar">Use soluções com script para automatizar a implantação e a integração de produtos e serviços da NetApp.</block>
   <block id="2b3e8f910d66604cd77f93b333670468" category="sidebar">Storage Azure Blob</block>
   <block id="fbdd0eee7f6077dcd3ac16cc88517d62" category="sidebar">Descubra e gerencie o armazenamento Azure Blob em suas assinaturas do Azure.</block>
-  <block id="7f0915fd413dcc718e35e39d644d92ac" category="sidebar">Serviço de storage de arquivos de alta performance para as principais aplicações empresariais.</block>
   <block id="be062cdcabbb3055334e8f19b4bdf378" category="sidebar">Backup e recuperação</block>
   <block id="a3460dd01b0f0c32632246bf209e730f" category="sidebar">Faça backup e restauração de dados na nuvem e no local.</block>
   <block id="5c9335b28e6277ddbe0137f04e5e58a7" category="sidebar">Classificação</block>
   <block id="2090f2d846793f153b9266c648b079ef" category="sidebar">Prepare sua privacidade nos ambientes de nuvem e dados de aplicações.</block>
-  <block id="5b942e8f71976a7f4120006aa3ac54cc" category="sidebar">Operações da nuvem</block>
-  <block id="a17d9dd4943af64ba04db4529621baf0" category="sidebar">Obtenha visibilidade dos gastos da computação em nuvem e identifique possíveis economias.</block>
   <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="sidebar">Cloud Volumes ONTAP</block>
   <block id="1264ff6a809549b27ab6285b6ab793f2" category="sidebar">Torne seu storage de nuvem mais econômico, inteligente, em conformidade e seguro.</block>
   <block id="862d06f5b0779c31053bcadc07e8028b" category="sidebar">Proteja, proteja e acelere o storage de arquivos.</block>
@@ -227,4 +224,5 @@
   <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">Toda a documentação do BlueXP </block>
   <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">Workloads</block>
   <block id="c2f4c01ba651c0bc1e3f5840352d4723" category="sidebar">Crie, configure e opere as principais cargas de trabalho usando o Amazon FSX for NetApp ONTAP.</block>
+  <block id="6dcd21898198aef6fd1b4c762e770d69" category="sidebar">Serviço de storage de arquivos de alta performance no Azure para suas principais aplicações empresariais.</block>
 </blocks>

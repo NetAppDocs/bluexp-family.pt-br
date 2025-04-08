@@ -84,8 +84,8 @@ product-family:
   - title: Azure NetApp Files
     icon: "./media/icon-anf.png"
     url: "../bluexp-azure-netapp-files/index.html"
-    summary: Serviço de storage de arquivos de alta performance para as principais
-      aplicações empresariais.
+    summary: Serviço de storage de arquivos de alta performance no Azure para suas
+      principais aplicações empresariais.
     tags: all,storage,azure
   - title: Backup e recuperação
     icon: "./media/icon-backup.png"
@@ -97,12 +97,6 @@ product-family:
     url: "../bluexp-classification/index.html"
     summary: Prepare sua privacidade nos ambientes de nuvem e dados de aplicações.
     tags: all,governance,aws,azure,gcp
-  - title: Operações da nuvem
-    icon: "./media/icon-compute.png"
-    url: "../bluexp-cloud-ops/index.html"
-    summary: Obtenha visibilidade dos gastos da computação em nuvem e identifique
-      possíveis economias.
-    tags: all,aws,extension
   - title: Cloud Volumes ONTAP
     icon: "./media/icon-cvo.png"
     url: "../bluexp-cloud-volumes-ontap/index.html"
