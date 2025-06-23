@@ -154,12 +154,10 @@
   <block id="0dfcbbbe02d3e96f8ad78782e8772587" category="paragraph">Este é um ID gerado pelo sistema que mapeia para o seu e-mail. Na página *NSS Management*, você pode exibir seu e-mail no <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> menu.</block>
   <block id="fc79de85a483938f72fbcb9822ec0ae3" category="list-text">Se você precisar atualizar seus tokens de credenciais de login, há também uma opção *Atualizar credenciais* <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block>no menu.</block>
   <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">Usando esta opção, você solicita que você faça login novamente. Observe que o token para essas contas expira após 90 dias. Uma notificação será postada para alertá-lo sobre isso.</block>
-  <block id="ce6ca783caae4b6e998ea6268a37dfc6" category="sidebar">O NetApp BlueXP  oferece à sua organização um único painel de controle para criar, proteger e governar os dados em ambientes no local e na nuvem. Navegue pelos documentos por área de produto ou use a pesquisa acima para encontrar conteúdo em qualquer lugar nos documentos do BlueXP .</block>
   <block id="eeb8e055593f1709925a03e2ebb13265" category="sidebar">Documentação do BlueXP </block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">Tudo</block>
   <block id="db974238714ca8de634a7ce1d083a14f" category="sidebar">API</block>
   <block id="fe4a785cf549e843e958f443c4baf0fe" category="sidebar">Conetores</block>
-  <block id="5e2f5f3c24ae8c6ab3eca618826b0e23" category="sidebar">Extensões</block>
   <block id="5a935787d6f091fc760443ab4c491465" category="sidebar">Governança</block>
   <block id="605669cab962bf944d99ce89cf9e58d9" category="sidebar">Saúde</block>
   <block id="22bdd8c71cc34511ea88881e20f7ca21" category="sidebar">Gerenciamento de identidade e acesso</block>
@@ -225,4 +223,7 @@
   <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">Workloads</block>
   <block id="c2f4c01ba651c0bc1e3f5840352d4723" category="sidebar">Crie, configure e opere as principais cargas de trabalho usando o Amazon FSX for NetApp ONTAP.</block>
   <block id="6dcd21898198aef6fd1b4c762e770d69" category="sidebar">Serviço de storage de arquivos de alta performance no Azure para suas principais aplicações empresariais.</block>
+  <block id="61c23fb0066e4005db4fe5ccd0835180" category="sidebar">O NetApp BlueXP  oferece à sua organização um único painel de controle para criar, proteger e governar os dados em ambientes no local e na nuvem. Navegue pelos documentos por área de produto ou use a pesquisa acima para encontrar conteúdo.</block>
+  <block id="1ce2096c300f78bbb8389ca2603e6dd9" category="sidebar">Keystone</block>
+  <block id="70a67804758eee026e9f460e64b2c1d7" category="sidebar">Acesse e gerencie sua assinatura do Keystone pelo BlueXP.</block>
 </blocks>
