@@ -99,11 +99,6 @@ product-family:
     summary: Torne seu storage de nuvem mais econômico, inteligente, em conformidade
       e seguro.
     tags: all,storage,aws,azure,gcp
-  - title: Cloud Volumes Service para Google Cloud
-    icon: "./media/icon-cvs.png"
-    url: "../bluexp-cloud-volumes-service-gcp/index.html"
-    summary: Proteja, proteja e acelere o storage de arquivos.
-    tags: all,storage,gcp
   - title: Copiar e sincronizar
     icon: "./media/icon-sync.png"
     url: "../bluexp-copy-sync/index.html"
@@ -137,6 +132,11 @@ product-family:
     summary: Identificar clusters com baixa capacidade atual ou prevista e implementar
       categorias de dados ou recomendações de capacidade adicional.
     tags: all,governance
+  - title: Google Cloud NetApp volumes
+    icon: "./media/icon-cvs.png"
+    url: "../bluexp-google-cloud-netapp-volumes/index.html"
+    summary: Proteja, proteja e acelere o storage de arquivos.
+    tags: all,storage,gcp
   - title: Google Cloud Storage
     icon: "./media/icon-google-cloud-storage.png"
     url: "../bluexp-google-cloud-storage/index.html"

@@ -226,4 +226,5 @@
   <block id="61c23fb0066e4005db4fe5ccd0835180" category="sidebar">O NetApp BlueXP  oferece à sua organização um único painel de controle para criar, proteger e governar os dados em ambientes no local e na nuvem. Navegue pelos documentos por área de produto ou use a pesquisa acima para encontrar conteúdo.</block>
   <block id="1ce2096c300f78bbb8389ca2603e6dd9" category="sidebar">Keystone</block>
   <block id="70a67804758eee026e9f460e64b2c1d7" category="sidebar">Acesse e gerencie sua assinatura do Keystone pelo BlueXP.</block>
+  <block id="1215f8190533dfdf63d2224a6d88266f" category="sidebar">Google Cloud NetApp volumes</block>
 </blocks>
